@@ -1,4 +1,4 @@
 venv
 .env
-segment-anything
+*segment-anything
 *.pth
